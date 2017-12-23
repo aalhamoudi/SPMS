@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Backend", "src\Backend\Back
 EndProject
 Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "Web", "src\Web\Web.njsproj", "{7DE45A29-467C-4F8F-9232-6FCCFDF4042B}"
 EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "Mobile", "src\Mobile.njsproj", "{81EEA953-BF79-4947-86B5-0F1FFE4B7833}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{7DE45A29-467C-4F8F-9232-6FCCFDF4042B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7DE45A29-467C-4F8F-9232-6FCCFDF4042B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7DE45A29-467C-4F8F-9232-6FCCFDF4042B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81EEA953-BF79-4947-86B5-0F1FFE4B7833}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81EEA953-BF79-4947-86B5-0F1FFE4B7833}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81EEA953-BF79-4947-86B5-0F1FFE4B7833}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81EEA953-BF79-4947-86B5-0F1FFE4B7833}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
